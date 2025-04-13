@@ -1,1 +1,0 @@
-export default function Actus() { return <h1>Fil d’actualité</h1>; }
