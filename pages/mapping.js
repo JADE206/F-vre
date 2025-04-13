@@ -1,0 +1,1 @@
+export default function Mapping() { return <h1>Cartographie</h1>; }
